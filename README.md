@@ -1,4 +1,5 @@
 # LN_IMDB
+![image](https://user-images.githubusercontent.com/61936009/119738758-94a1dc80-be57-11eb-80e3-b94f3ae4eb10.png)
 
 ## Análise neural de críticas boas e ruins do IMDB
 
